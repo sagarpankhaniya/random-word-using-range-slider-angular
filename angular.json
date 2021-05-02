@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RandomWordGenerator"
+    }
+  },
+  "defaultProject": "RandomWordGenerator",
+  "cli": {
+    "analytics": false
+  }
 }
